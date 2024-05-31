@@ -1,0 +1,25 @@
+*{
+    font-family: Roboto;
+}
+:root {
+    --back: #7A8B99;
+}
+.jcsb{
+    display: flex;
+    justify-content: space-between;
+}
+.jcc{
+    justify-content: center;
+}
+.tac{
+    text-align: center;
+}
+.tdn{
+    text-decoration: none;
+}
+.aic{
+    align-items: center;
+}
+.hide{
+    display: none;
+}
